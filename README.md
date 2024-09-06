@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanmayy-2907
 - 👀 I’m interested in Gaming, Web Development!
 - 🌱 I’m currently learning JavaScript!
-- 📫 How to reach me - tanmaynarkar2907@gmail.com / 
+- 📫 How to reach me - tanmaynarkar2907@gmail.com / www.linkedin.com/in/tanmay-narkar-a68993303
 - 😄 Pronouns: He/Him
 - 
 
