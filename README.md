@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay Narkar!</h1>
 <h3 align="center">A Passionate Computer Engineering Pursuing Undergrad!</h3>
 
-- 🌱 I’m currently learning **JavaScript, DSA**
-
 - 📫 How to reach me **tanmaynarkar2907@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
