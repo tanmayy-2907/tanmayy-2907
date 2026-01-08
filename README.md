@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanmay Narkar!</h1>
-<h3 align="center">A Passionate Computer Engineering Pursuing Undergrad!</h3>
+![Header](./github-header-banner.png)
 
 - 📫 How to reach me **tanmaynarkar2907@gmail.com**
 
